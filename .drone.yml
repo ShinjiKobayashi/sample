@@ -1,0 +1,4 @@
+build:
+  image: peryaudo/android-sdk
+  commands:
+    - ./gradlew assembleDebug 
